@@ -1,0 +1,9 @@
+employee_id,name,age,join_date,dept,salary,status,email
+E001,John Doe,29,2022/03/15,HR,"$5,500",Active,johndoe@email
+E002,"SINGH, A",52,March 2018,Finance,,Retired,singh.a@email.com
+E003,Maria Gonzales,n/a,2020-06-21,Finance,6200,ACTIVE,maria_g@email.com
+E004,Tom,44,2019.12.10,IT,6700,,tom@email.com
+E005,,-,Not available,HR,6000,Left,
+E006,Li Wei,36,2018-07-12,IT,$6200.00,Active,liwei@email.com
+E007,Priya Sharma,41,13/05/2017,Marketing,5800,Active,priyasharma@email.com
+E008, ,35,01-01-2021, ,5500.0,active,placeholder@email.com
